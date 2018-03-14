@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor-vimeo-plugin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fonini/ckeditor-vimeo-plugin",
+  "authors": [
+    "David Thenon"
+  ],
+  "license": "WTFPL",
+  "dependencies": {
+    "ckeditor": ">= 4.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

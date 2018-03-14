@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor-vimeo-plugin",
+  "description": "Vimeo plugin for CKEditor",
+  "version": "1.0.0",
+  "author": "sveetch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emencia/ckeditor-vimeo-plugin"
+  },
+  "keywords": [
+    "CKEditor",
+    "vimeo",
+    "embed"
+  ],
+  "files": [
+    "vimeo/",
+    "LICENSE.txt",
+    "README.rst",
+    "bower.json",
+    "package.json"
+  ]
+}
