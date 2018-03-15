@@ -2,7 +2,7 @@
 * Vimeo Embed Plugin
 *
 * @author David Thenon <dthenon@emencia.com>
-* @version 1.0.0
+* @version 1.1.0
 *
 * Original code comes from CKeditor Youtube plugin version 2.1.10:
 * https://github.com/fonini/ckeditor-youtube-plugin
