@@ -243,6 +243,6 @@ function vimeoHandleEmbedChange(el, api) {
 * of any valid Vimeo Url, given as input string.
 */
 function vimeoVidId(url) {
-    var p = /^(?:https?:\/\/)?(?:player\.vimeo\.com\/video\/|vimeo\.com\/)((\w|-){9})(?:\S+)?$/;
+    var p = /^(?:https?:\/\/)?(?:player\.vimeo\.com\/video\/|vimeo\.com\/)(\d+)(?:\S+)?$/;
     return (url.match(p)) ? RegExp.$1 : false;
 }
