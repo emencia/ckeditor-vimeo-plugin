@@ -1,6 +1,6 @@
 CKEDITOR.plugins.setLang('vimeo', 'fr', {
-    button : 'Insérer une vidéo Youtube',
-    title : 'Insérer une vidéo youtube',
+    button : 'Insérer une vidéo Vimeo',
+    title : 'Insérer une vidéo Vimeo',
     txtEmbed : 'Coller le code embed ici',
     txtUrl : 'Coller l\'url de la vidéo ici',
     txtWidth : 'Largeur',
