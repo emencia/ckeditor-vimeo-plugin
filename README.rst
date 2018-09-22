@@ -95,4 +95,6 @@ Credits
 
 This project has been started and modified from original project `ckeditor-youtube-plugin <https://github.com/fonini/ckeditor-youtube-plugin>`_ version 2.1.10 from `Jonnas Fonini <https://github.com/fonini/ckeditor-youtube-plugin>`_.
 
+`monstrao <https://github.com/monstrao>`_ for portuguese brazilian translations.
+
 And it is licensed under the `WTFPL <http://www.wtfpl.net>`_ to respect original project license.
