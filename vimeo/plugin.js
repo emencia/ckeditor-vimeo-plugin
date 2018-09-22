@@ -9,7 +9,7 @@
 */
 (function () {
     CKEDITOR.plugins.add('vimeo', {
-        lang: [ 'en', 'fr' ],
+        lang: [ 'en', 'fr', 'pt-br'],
         init: function (editor) {
             editor.addCommand('vimeo', new CKEDITOR.dialogCommand('vimeo', {
                 allowedContent: 'div{*}(*); iframe{*}[!width,!height,!src,!frameborder,!allowfullscreen]; object param[*]; a[*]; img[*]'
